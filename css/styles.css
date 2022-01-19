@@ -45,9 +45,9 @@ input {
   display: flex;
   justify-content: center;
   align-items: center;
-  border-radius: 60px;
-  width: 600px;
-  height: 300px;
+  border-radius: 20px;
+  width: 40%;
+  height: 30%;
   background-color: blanchedalmond;
 
   transform: translateY(-400px);
